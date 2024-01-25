@@ -17,3 +17,10 @@
 /project_3/data/test/*.png
 /project_3/models
 /project_3/weights
+project_3/utils/__pycache__/callbacks.cpython-311.pyc
+project_3/utils/__pycache__/config.cpython-311.pyc
+project_3/utils/__pycache__/dataset_mappings.cpython-311.pyc
+project_3/utils/__pycache__/metrics.cpython-311.pyc
+project_3/utils/__pycache__/normalization.cpython-311.pyc
+project_3/utils/__pycache__/prediction.cpython-311.pyc
+project_3/data.7z
