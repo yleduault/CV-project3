@@ -1,0 +1,11 @@
+tensorflow==2.15.0
+gradio
+numpy
+pandas
+cv2
+matplotlib
+keras
+tqdm
+time
+PIL
+os

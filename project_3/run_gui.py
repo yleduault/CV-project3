@@ -1,5 +1,4 @@
 import os
-import glob
 import numpy as np
 from PIL import Image, ImageOps
 import tensorflow as tf
